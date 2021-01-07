@@ -6,6 +6,6 @@ public class HelloWorld {
     System.out.println("Happy Ugadi.....");
     System.out.println("Happy Ugadi.....");
     System.out.println("Happy Ugadi.....");
-    System.out.println("Happy Ugadi.....");
+    fasSystem.out.println("Happy Ugadi.....");
   }
 }
